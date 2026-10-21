@@ -10,3 +10,5 @@ I have designed a marble run for some metal marbles I own at home, which are 15m
 The one below is the birdseye view, clearly showing the overhang.
 
 ![Image](https://github.com/jeremy-stardance/Marble-Run/blob/main/Images/Birdseye%20View)
+
+I intend on 3D printing this part using one of my friends 3D printers, rather than the Hack Club printing legion.
